@@ -75,7 +75,7 @@ def run_latex(fileloc):
 
 
 ###1. Data Cleaning
-run_stata("analysis/Cleaning/0_Master_Cleaning.do")
+run_stata("stata_test.do")
 
 
 
